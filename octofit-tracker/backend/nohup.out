@@ -1,0 +1,53 @@
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+[09/Jul/2025 04:06:55] "GET /favicon.ico HTTP/1.1" 404 2377
+[09/Jul/2025 04:07:02] "GET / HTTP/1.1" 200 151
+[09/Jul/2025 04:07:09] "GET / HTTP/1.1" 200 151
+/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/octofit_tracker/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 09, 2025 - 04:06:45
+Django version 5.2.4, using settings 'octofit_tracker.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/octofit_tracker/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 09, 2025 - 04:29:27
+Django version 5.2.4, using settings 'octofit_tracker.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/octofit_tracker/serializers.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 09, 2025 - 04:29:40
+Django version 5.2.4, using settings 'octofit_tracker.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
+/workspaces/skills-build-applications-w-copilot-agent-mode/octofit-tracker/backend/octofit_tracker/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 09, 2025 - 04:31:28
+Django version 5.2.4, using settings 'octofit_tracker.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Watching for file changes with StatReloader
